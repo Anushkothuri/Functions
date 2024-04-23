@@ -1,3 +1,4 @@
+// Using functions print factorial of given number by user.
 #include<stdio.h>
 unsigned long long factorial(int n)
 {
