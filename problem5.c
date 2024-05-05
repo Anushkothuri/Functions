@@ -1,3 +1,4 @@
+// Using functions print subtraction of two numbers given by a user.
 #include<stdio.h>
 int sub(int,int);
 int main()
